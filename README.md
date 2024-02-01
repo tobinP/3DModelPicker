@@ -12,10 +12,10 @@ https://github.com/tobinP/3DModelPicker/assets/12635217/279f5fe6-d63a-468e-803c-
 
 ## Image Tracking
 
-1. Display the image named "good-contrast.jpg" on a computer screen
+1. Display this image on a computer screen
 <img src=https://github.com/tobinP/3DModelPicker/assets/12635217/7102b3e4-cb84-4b4f-b721-0c396f5cac04 width=50%>
 
-2. Point the display that the image and see the 3D pink sphere display above the image
+2. Point the iphone at the image and see the 3D pink sphere display above the image
 
 https://github.com/tobinP/3DModelPicker/assets/12635217/198a8d95-4a55-4287-96bb-73f219af51c2
 
