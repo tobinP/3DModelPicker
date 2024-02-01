@@ -28,7 +28,7 @@ respective 3D models but they don't have good tracking characteristcs and it mad
 # Considerations
 
 In the spirit of doing as much as possible in RealityKit and not directly in ARKit, the image tracking was setup 
-using AnchorEntity(.image()) which is way nicer syntax than setting up all of ARKit’s session delegate methods.
+using `AnchorEntity(.image())` which is way nicer syntax than setting up all of ARKit’s session delegate methods.
 
 # Extra features if this project were to be expanded
 
