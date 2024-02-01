@@ -11,7 +11,8 @@ Uses RealityKit and SwiftUI to load 3D models in an AR scene
 ## Image Tracking
 
 1. Display the image named "good-contrast.jpg" on a computer screen
-   <put image here>
+![good-contrast](https://github.com/tobinP/3DModelPicker/assets/12635217/7102b3e4-cb84-4b4f-b721-0c396f5cac04)
+
 2. Point the display that the image and see the 3D pink sphere display above the image
 
 I found an image online with characteristics that are friendly to image tracking (a sunset over the sea).
