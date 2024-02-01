@@ -8,6 +8,10 @@ Uses RealityKit and SwiftUI to load 3D models in an AR scene
 2. Swipe left or right to view the available models
 3. Tap on the image of the model to load it on a horizontal surface in the scene
 
+
+https://github.com/tobinP/3DModelPicker/assets/12635217/279f5fe6-d63a-468e-803c-bd63b41694e6
+
+
 ## Image Tracking
 
 1. Display the image named "good-contrast.jpg" on a computer screen
