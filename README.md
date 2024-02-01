@@ -1,7 +1,7 @@
 # 3DModelPicker
 Uses RealityKit and SwiftUI to load 3D models in an AR scene
 
-# To use to app
+# To use the app
 
 ## Model Picker
 1. Tap anywhere on the screen to display the model picker UI
