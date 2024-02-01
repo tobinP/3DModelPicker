@@ -8,9 +8,7 @@ Uses RealityKit and SwiftUI to load 3D models in an AR scene
 2. Swipe left or right to view the available models
 3. Tap on the image of the model to load it on a horizontal surface in the scene
 
-
 https://github.com/tobinP/3DModelPicker/assets/12635217/279f5fe6-d63a-468e-803c-bd63b41694e6
-
 
 ## Image Tracking
 
@@ -18,6 +16,8 @@ https://github.com/tobinP/3DModelPicker/assets/12635217/279f5fe6-d63a-468e-803c-
 <img src=https://github.com/tobinP/3DModelPicker/assets/12635217/7102b3e4-cb84-4b4f-b721-0c396f5cac04 width=50%>
 
 2. Point the display that the image and see the 3D pink sphere display above the image
+
+https://github.com/tobinP/3DModelPicker/assets/12635217/198a8d95-4a55-4287-96bb-73f219af51c2
 
 I found an image online with characteristics that are friendly to image tracking (a sunset over the sea).
 This made for a solid image tracking experience.
